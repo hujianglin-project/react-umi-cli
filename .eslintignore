@@ -1,0 +1,14 @@
+/lambda/
+/scripts
+/config
+/tests
+.history
+public
+dist
+.umi
+mock
+!.eslintrc.js
+!.prettierrc.js
+!.stylelintrc.js
+sensorsdata.es6.min.js
+.eslintrc.js

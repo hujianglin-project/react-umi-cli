@@ -1,0 +1,15 @@
+node_modules
+dist
+src/.umi
+src/.umi-production
+yarn-error.log
+.pnpm-debug.log
+.DS_Store
+.vscode
+.idea
+.eslintcache
+_mstemplate
+server/static
+server/server_*
+.mfsu-dev
+.mfsu-prod
